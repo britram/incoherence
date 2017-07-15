@@ -101,4 +101,4 @@ ENV/
 .mypy_cache/
 
 # Atlas cache
-atlas-cache/
+atlas_cache/
